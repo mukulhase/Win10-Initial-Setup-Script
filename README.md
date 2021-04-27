@@ -1,3 +1,8 @@
+## Ninite
+`https://ninite.com/7zip-chrome-discord-filezilla-foobar-gimp-googlebackupandsync-klitecodecs-notepadplusplus-putty-pythonx3-qbittorrent-spotify-steam-teracopy-vlc-vscode-windirstat-winmerge-winrar/`
+
+My ninite config
+
 ## Contents
  - [Description](#description)
  - [Usage](#usage)
